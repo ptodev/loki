@@ -1,6 +1,6 @@
 module github.com/grafana/loki/pkg/push
 
-go 1.19
+go 1.21
 
 require (
 	github.com/gogo/protobuf v1.3.2
